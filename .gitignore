@@ -1,7 +1,10 @@
 wandb/
 logs/
+/logs/
+/logs/rsl_rl/
 onnx/
 videos/
+sample/
 __pycache__/
 MUJOCO_LOG.TXT
 debug.py
@@ -17,4 +20,3 @@ benchmark_results/
 # Documentation outputs.
 **/_build/*
 **/generated/*
-
